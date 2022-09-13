@@ -8,13 +8,13 @@ Gem::Specification.new do |spec|
   spec.authors = ["Punnarat Rattanapawan"]
   spec.email = ["punnarat_mos@hotmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "TOD.O: Write a short summary, because RubyGems requires one."
+  spec.description = "TOD.O: Write a longer description or delete this line."
   spec.homepage = "https://github.com/mzwallow/dev-sandbox-ruby"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+  spec.metadata["allowed_push_host"] = "TOD.O: Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/mzwallow/dev-sandbox-ruby"
